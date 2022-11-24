@@ -61,6 +61,16 @@ export const PROJECTS: IProject[] = [
   },
 
   {
+    name: "BMI Calculator",
+    image: "/projects/BMI-2.png",
+    blurImage: "public/projects/blur/ngx-quill-upload-blur.jpg",
+    description: "BMI Calculator Using HTML, CSS & JS",
+    gradient: ["#E90531", "#f3f716"],
+    url: "https://parakhchoudhary1208.github.io/BMI-CALCULATOR/",
+    tech: ["javascript", "css", "html"],
+  },
+
+  {
     name: "Typography Principle",
     image: "/projects/Typography-principle.png",
     blurImage: "public/projects/blur/ngx-quill-upload-blur.jpg",
@@ -69,7 +79,6 @@ export const PROJECTS: IProject[] = [
     url: "https://parakhchoudhary1208.github.io/Final-Project/",
     tech: ["javascript", "gsap", "html"],
   },
-
 
   {
     name: "Bon-Fashion",
@@ -89,7 +98,7 @@ export const PROJECTS: IProject[] = [
     description: "Tesla-Motor Landing Page Using Pure HTML & CSS",
     gradient: ["#E90531", "#AF8AA4"],
     url: "https://parakhchoudhary1208.github.io/Final-Project/",
-    tech: ["javascript", "gsap", "html"],
+    tech: ["javascript", "css", "html"],
   },
   
 ];
@@ -101,6 +110,8 @@ export const SKILLS = {
     "gsap",
     "html",
     "css",
+    "nodejs-icon",
+    "mongodb-icon-1"
   ],
   userInterface: [""],
   other: [""],
