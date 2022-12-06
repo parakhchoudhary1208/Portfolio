@@ -105,13 +105,15 @@ export const PROJECTS: IProject[] = [
 
 export const SKILLS = {
   frontend: [
-    "javascript",
-    "react",
-    "gsap",
     "html",
     "css",
+    "javascript",
+    "gsap",
     "nodejs-icon",
-    "mongodb-icon-1"
+    "mongodb-icon-1",
+    "react",
+    "figma", 
+    "git"
   ],
   userInterface: [""],
   other: [""],
