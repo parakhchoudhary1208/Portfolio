@@ -97,7 +97,7 @@ export const PROJECTS: IProject[] = [
     blurImage: "public/projects/blur/ngx-quill-upload-blur.jpg",
     description: "Tesla-Motor Landing Page Using Pure HTML & CSS",
     gradient: ["#E90531", "#AF8AA4"],
-    url: "https://parakhchoudhary1208.github.io/Final-Project/",
+    url: "https://parakhchoudhary1208.github.io/TESLA/",
     tech: ["javascript", "css", "html"],
   },
   
